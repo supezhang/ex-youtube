@@ -1,0 +1,13 @@
+@import url(./normallize.css);
+* {
+  box-sizing: border-box;
+}
+
+.ytb-content {
+  width: 1200px;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+}
